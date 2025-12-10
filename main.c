@@ -12,6 +12,7 @@ int main() {
 	int counter =0;
 
 	printf("--- Array Input ---\n");
+	
 	// get user input to fill the array
 	for(int i =0; i<SIZE; i++){
 		printf("Enter number %d: ",i+1);
